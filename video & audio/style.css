@@ -1,0 +1,23 @@
+*{margin:0px;
+padding:0px;
+box-sizeing:border-box;
+background-color:aliceblue;}
+main{text-align:center;}
+video{
+  box-shadow: 15px 15px 5px 2px #ff2727;
+    border: 2px solid black;
+    border-radius: 49px;
+}
+button{
+background-color:navy;
+border:15px;
+color:white;
+margin:20px;
+border:2px solid black;
+padding:5px;
+    border-radius: 12px;
+}
+button:active{
+background-color:white;}
+h1{text-align:center;
+margin:15px auto;}
